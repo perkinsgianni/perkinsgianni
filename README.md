@@ -1,4 +1,6 @@
-### Hi, I'm Gianni 👋🏾 Welcome to my oasis ✨
+## Hi, I'm Gianni 👋🏾 Welcome to my oasis ✨
+
+I'm a **front-end developer** with a background in biological research.
 
 <!--
 **perkinsgianni/perkinsgianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

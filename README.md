@@ -1,4 +1,4 @@
-### Hi, my name is Gianni 👋🏾 Welcome to my oasis ✨
+### Hi, I'm Gianni 👋🏾 Welcome to my oasis ✨
 
 <!--
 **perkinsgianni/perkinsgianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

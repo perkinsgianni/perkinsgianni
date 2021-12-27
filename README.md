@@ -1,10 +1,11 @@
-## Hi, I'm Gianni 👋🏾 Welcome to my happy place ✨
+### Hi, I'm Gianni 👋🏾 Welcome to my happy place ✨
 
 🔭 I'm a **Front-End Developer** and **Data Science Fellow** with a background in biological research.<br>
 🌱 I’m constantly striving to improve as a developer.<br>
 📫<br>
-	∙ Shoot me an email: perkinsgianni@gmail.com<br>
-	∙ Check out my portfolio: https://perkinsgianni.github.io<br>
+∙ Send me an email: perkinsgianni@gmail.com<br>
+∙ Check out my portfolio: https://perkinsgianni.github.io<br>
+∙ Connect with me on LinkedIn: https://www.linkedin.com/in/perkinsgianni/
  ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!<br>
 
 <!--

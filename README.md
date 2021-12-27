@@ -1,7 +1,7 @@
 ### Hi, I'm Gianni 👋🏾 Welcome to my happy place ✨
 
 🔭 I'm a **Front-End Developer** and **Data Science Fellow** with a background in biological research. <br>
-🌱 I’m constantly striving to improve as a developer. <br>
+🌱 I’m constantly striving to learn and improve as a developer. <br>
 📫
 <ul> ∙ Send me an email: <a href="mailto:perkinsgianni@gmail.com">perkinsgianni@gmail.com</a><br>
 ∙ Check out my portfolio: https://perkinsgianni.github.io </ul>

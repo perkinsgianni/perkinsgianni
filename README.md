@@ -2,9 +2,9 @@
 
 🔭 I'm a **Front-End Developer** and **Data Science Fellow** with a background in biological research.
 🌱 I’m constantly striving to improve as a developer.
-📫 How to reach me:
-    ∙ 📧: 
-    ∙ 
+📫
+    ∙ Shoot me an email: perkinsgianni@gmail.com
+    ∙ Check out my portfolio: https://perkinsgianni.github.io
  ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!
 
 <!--

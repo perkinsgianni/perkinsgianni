@@ -1,6 +1,11 @@
-## Hi, I'm Gianni 👋🏾 Welcome to my oasis ✨
+## Hi, I'm Gianni 👋🏾 Welcome to my happy place ✨
 
-I'm a **front-end developer** with a background in biological research.
+🔭 I'm a **Front-End Developer** and **Data Science Fellow** with a background in biological research.
+🌱 I’m constantly striving to improve as a developer.
+📫 How to reach me:
+    ∙ 📧: 
+    ∙ 
+ ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!
 
 <!--
 **perkinsgianni/perkinsgianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

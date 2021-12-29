@@ -9,7 +9,7 @@
 🔭 I'm a <b>Front-End Developer</b> and <b>Data Science Fellow</b> with a background in biological research.<br>
 📍 I'm currently located in the NYC Metropolitan Area.<br>
 🌱 I’m constantly striving to learn and improve as a developer.<br>
-⚡ Fun fact: I'm currently trying to finish up Attack on Titan!
+⚡ Fun fact: I'm trying to finish up Attack on Titan!
 
 <h3>「 Technical Skills 」</h3>
   <p>

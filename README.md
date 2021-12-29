@@ -1,4 +1,4 @@
-<img src="images/Pink LinkedIn Banner.png" height="30%" width="100%" alt="Header">
+<img src="images/Pink Banner.png" height="30%" width="100%" alt="Header">
 
 <h3 align="center">
     Hi, I'm Gianni 👋🏾 <br>

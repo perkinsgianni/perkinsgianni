@@ -1,7 +1,8 @@
 <img src="images/Pink LinkedIn Banner.png" height="30%" width="100%" alt="Header">
 
 <h3 align="center">
-    Hi, I'm Gianni 👋🏾 Welcome to my happy place ✨
+    Hi, I'm Gianni 👋🏾 <br>
+    Welcome to my happy place ✨
 </h3><br>
 
 🔭 I'm a <b>Front-End Developer</b> and <b>Data Science Fellow</b> with a background in biological research.<br>

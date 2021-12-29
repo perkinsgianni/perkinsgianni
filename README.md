@@ -11,7 +11,7 @@
 ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!
 
 <h3>「 My Technical Skills 」</h3>
-![Python]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 <h3>「 Contact Me 」</h3>
 📫

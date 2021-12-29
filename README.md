@@ -5,7 +5,7 @@
   Welcome to my happy place ✨
 </h3>
 
-<h4>「 About Me 」</h4>
+<h3>「 About Me 」</h3>
 🔭 I'm a <b>Front-End Developer</b> and <b>Data Science Fellow</b> with a background in biological research.<br>
 🌱 I’m constantly striving to learn and improve as a developer.<br>
 ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!

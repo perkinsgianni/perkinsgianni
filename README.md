@@ -7,19 +7,29 @@
 
 <h3>「 About Me 」</h3>
 🔭 I'm a <b>Front-End Developer</b> and <b>Data Science Fellow</b> with a background in biological research.<br>
+📍 I'm currently located in the NYC Metropolitan Area.<br>
 🌱 I’m constantly striving to learn and improve as a developer.<br>
 ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!
 
 <h3>「 My Technical Skills 」</h3>
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python">
+  </p>
+
+<h3>「 Portfolio 」</h3>
+  <a href="https://perkinsgianni.github.io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
 
 <h3>「 Contact Me 」</h3>
-📫
-  <ul>
-    ∙ Send me an email: <a href="mailto:perkinsgianni@gmail.com">perkinsgianni@gmail.com</a><br>
-    ∙ Check out my portfolio: <a href="https://perkinsgianni.github.io">https://perkinsgianni.github.io</a>
-   </ul>
-   
+  <p>
+    <a href="mailto:perkinsgianni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"                  alt="Email"></a>
+    <a href="https://www.linkedin.com/in/perkinsgianni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+  
+ <a href="https://github-readme-stats.vercel.app/api?username={perkinsgianni}"></a>
+ 
 <!--
 **perkinsgianni/perkinsgianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

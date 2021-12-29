@@ -24,8 +24,8 @@
 
 <h3>「 Contact Me 」</h3>
   <p>
-    <a href="mailto:perkinsgianni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"                  alt="Email"></a>
-    <a href="https://www.linkedin.com/in/perkinsgianni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="28px" width="30px" alt="LinkedIn"></a>
+    <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="32px" width="30px" alt="Email"></a>
   </p>
   
  

@@ -1,3 +1,5 @@
+<img src="images/Pink LinkedIn Banner.png" height="30%" width="100%" alt="Header">
+
 ### Hi, I'm Gianni 👋🏾 Welcome to my happy place ✨
 
 🔭 I'm a **Front-End Developer** and **Data Science Fellow** with a background in biological research. <br>

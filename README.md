@@ -1,11 +1,11 @@
 <img src="images/Pink Banner.png" height="30%" width="100%" alt="Header">
 
-<h2 align="center">
+<h3 align="center">
   Hi, I'm Gianni 👋🏾 <br>
   Welcome to my happy place ✨
-</h2>
+</h3>
 
-<h3>「 About Me 」</h3>
+<h2>「 About Me 」</h2>
 🔭 I'm a <b>Front-End Developer</b> and <b>Data Science Fellow</b> with a background in biological research.<br>
 🌱 I’m constantly striving to learn and improve as a developer.<br>
 ⚡ Fun fact: I'm currently trying to finish up Attack on Titan!

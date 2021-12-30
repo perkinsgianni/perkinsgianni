@@ -11,7 +11,7 @@
 🌱 I’m constantly striving to learn and improve as a developer.<br>
 ⚡ Fun fact: I'm trying to finish up Attack on Titan!
 
-<h3>「 Frameworks, Languages, & Tools 」</h3>
+<h3>「 Frameworks, Languages, and Tools 」</h3>
   <p>
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe CC">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">

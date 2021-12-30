@@ -47,7 +47,7 @@
 <h3>「 Contact Me 」</h3>
   <p>
     <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="40px" width="40px" alt="LinkedIn"></a>
-    <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="40px" width="40px" alt="Email"></a>
+    <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="40px" width="38px" alt="Email"></a>
   </p>
 
 

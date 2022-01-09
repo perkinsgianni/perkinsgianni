@@ -54,7 +54,6 @@
   <!-- <a href="https://perkinsgianni.github.io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> -->
   <a href="https://perkinsgianni.github.io">perkinsgianni.github.io</a>
 
-
 <h3>「 Contact Me 」</h3>
   <p>
     <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="35px" width="35px" alt="LinkedIn"></a>

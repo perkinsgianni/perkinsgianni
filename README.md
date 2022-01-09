@@ -43,11 +43,13 @@
   <p>
     <img width="360" src="images/boi.png">
     <img width="360" src="images/game.png">
+  
     <a href="https://github.com/perkinsgianni/boi">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi">
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi">
     </a>
+  
     <a href="https://github.com/perkinsgianni/ProjectThree">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree">
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree">
     </a>
   </p>
 

@@ -41,8 +41,12 @@
 
 <h3>「 Notable Projects 」</h3>
   <p>
-    <img width="49%" src="images/boi.png">
-    <img width="49%" src="images/game.png">
+    <a href="https://perkinsgianni.github.io/FinalProject/BlackDatabase.html">
+      <img width="49%" src="images/boi.png">
+    </a>
+    <a href="https://perkinsgianni.github.io/Project3/project3.html">
+      <img width="49%" src="images/game.png">
+    </a>
     <a href="https://github.com/perkinsgianni/boi">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi&theme=graywhite">
     </a>

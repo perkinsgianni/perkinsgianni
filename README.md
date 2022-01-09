@@ -44,10 +44,10 @@
     <img width="49%" src="images/boi.png">
     <img width="49%" src="images/game.png">
     <a href="https://github.com/perkinsgianni/boi">
-      <img width="49%" src="">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi&theme=graywhite">
     </a>
     <a href="https://github.com/perkinsgianni/ProjectThree">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree&theme=graywhite">
+      <img width="49%" src="">
     </a>
   </p>
 

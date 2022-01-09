@@ -47,7 +47,7 @@
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi&theme=graywhite">
     </a>
     <a href="https://github.com/perkinsgianni/ProjectThree">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree&theme=graywhite">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree&theme=dracula">
     </a>
   </p>
 

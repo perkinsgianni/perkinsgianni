@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce">
   </p>
 
-<h3>「 Projects and Portfolio 」</h3>
+<h3>「 Notable Projects 」</h3>
   <p>
     <img width="360" src="images/boi.png">
     <img width="360" src="images/game.png">

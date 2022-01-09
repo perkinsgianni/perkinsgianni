@@ -41,8 +41,8 @@
 
 <h3>「 Notable Projects 」</h3>
   <p>
-    <img width="360" src="images/boi.png">
-    <img width="360" src="images/game.png">
+    <img width="36%" src="images/boi.png">
+    <img width="36%" src="images/game.png">
     <a href="https://github.com/perkinsgianni/boi">
       <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi">
     </a>

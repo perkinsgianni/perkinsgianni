@@ -39,7 +39,18 @@
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce">
   </p>
 
-<h3>「 Portfolio 」</h3>
+<h3>「 Portfolio and Projects 」</h3>
+  <p>
+    <img width="400" src="images/boi.png">
+    <img width="400" src="images/game.png">
+    <a href="https://github.com/perkinsgianni/boi">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi">
+    </a>
+    <a href="https://github.com/perkinsgianni/ProjectThree">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree">
+    </a>
+  </p>
+
   <!-- <a href="https://perkinsgianni.github.io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> -->
   <a href="https://perkinsgianni.github.io">perkinsgianni.github.io</a>
 
@@ -49,19 +60,3 @@
     <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="35px" width="35px" alt="LinkedIn"></a>
     <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="35px" width="33px" alt="Email"></a>
   </p>
-
-
-<!--
-**perkinsgianni/perkinsgianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

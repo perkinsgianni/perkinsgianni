@@ -41,8 +41,8 @@
 
 <h3>「 Portfolio and Projects 」</h3>
   <p>
-    <img width="370" src="images/boi.png">
-    <img width="370" src="images/game.png">
+    <img width="360" src="images/boi.png">
+    <img width="360" src="images/game.png">
     <a href="https://github.com/perkinsgianni/boi">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi">
     </a>

@@ -51,9 +51,6 @@
     </a>
   </p>
 
-  <!-- <a href="https://perkinsgianni.github.io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> -->
-  <a href="https://perkinsgianni.github.io">perkinsgianni.github.io</a>
-
 <h3>「 Contact Me 」</h3>
   <p>
     <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="30px" width="30px" alt="Email"></a>

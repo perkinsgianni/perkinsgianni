@@ -58,7 +58,7 @@
 
 <h3>「 Contact Me 」</h3>
   <p>
-    <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="30px" width="30px" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
-    <a href="https://perkinsgianni.github.io"><img src="images/github.png" height="30px" width="30px" alt="GitHub"></a>
+    <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="40px" width="40px" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="40px" width="40px" alt="LinkedIn"></a>
+    <a href="https://perkinsgianni.github.io"><img src="images/github.png" height="40px" width="40px" alt="GitHub"></a>
   </p>

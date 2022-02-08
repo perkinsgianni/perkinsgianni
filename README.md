@@ -47,10 +47,10 @@
 
 <h3>「 Notable Projects 」</h3>
   <p>
-    <a href="https://perkinsgianni.github.io/FinalProject/BlackDatabase.html">
+    <a href="https://perkinsgianni.github.io/QCCBootcamp/FinalProject/BlackDatabase.html">
       <img width="49%" src="images/boi.png">
     </a>
-    <a href="https://perkinsgianni.github.io/Project3/project3.html">
+    <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
       <img width="49%" src="images/game.png">
     </a>
     <a href="https://github.com/perkinsgianni/boi">

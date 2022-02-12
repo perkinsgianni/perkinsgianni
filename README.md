@@ -48,10 +48,10 @@
 <h3>「 Notable Projects 」</h3>
   <p>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/FinalProject/BlackDatabase.html">
-      <img width="49%" src="images/boi.gif">
+      <img width="49%" height=auto src="images/boi3.gif">
     </a>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
-      <img width="49%" height="197" src="images/game.gif">
+      <img width="49%" height=auto src="images/game.gif">
     </a>
     <a href="https://github.com/perkinsgianni/boi">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi&theme=graywhite">

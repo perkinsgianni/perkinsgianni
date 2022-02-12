@@ -51,7 +51,7 @@
       <img width="49%" src="images/boi.gif">
     </a>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
-      <img width="49%" height="282" src="images/game.gif">
+      <img width="49%" height="150" src="images/game.gif">
     </a>
     <a href="https://github.com/perkinsgianni/boi">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=boi&theme=graywhite">

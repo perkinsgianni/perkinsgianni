@@ -48,7 +48,7 @@
 <h3>「 Notable Projects 」</h3>
   <p>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/FinalProject/BlackDatabase.html">
-      <img width="49%" height=auto src="images/boi3.gif">
+      <img width="49%" height=auto src="images/boi.gif">
     </a>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
       <img width="49%" height=auto src="images/game.gif">

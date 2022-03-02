@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
   </p>
 
-<h3>「 Notable Projects 」</h3>
+<h3>「 Featured Projects 」</h3>
   <p>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/FinalProject/BlackDatabase.html">
       <img width="49%" height=auto src="images/boi.gif">

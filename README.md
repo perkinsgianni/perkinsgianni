@@ -40,7 +40,7 @@
       <img width="49%" height=auto src="images/astro-weight-calc.gif">
     </a>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
-      <img width="49%" height=auto src="images/game.gif">
+      <img width="49%" height="286px" src="images/game.gif">
     </a>
     <a href="https://github.com/perkinsgianni/astro-weight-calculator">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=astro-weight-calculator&theme=graywhite">

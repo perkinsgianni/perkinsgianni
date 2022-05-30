@@ -37,7 +37,7 @@
 <h3>「 Featured Projects 」</h3>
   <p>
     <a href="https://perkinsgianni.github.io/astro-weight-calculator">
-      <img width="49%" height="278px" src="images/astro-weight-calc.gif">
+      <img width="49%" height=auto src="images/astro-weight-calc.gif">
     </a>
     <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
       <img width="49%" height=auto src="images/game.gif">

@@ -39,14 +39,14 @@
     <a href="https://perkinsgianni.github.io/astro-weight-calculator">
       <img width="49%" height=auto src="images/astro-weight-calc.gif">
     </a>
-    <a href="https://perkinsgianni.github.io/QCCBootcamp/Project3/project3.html">
-      <img width="49%" height="240px" src="images/game.gif">
+    <a href="https://gp-hackathon.herokuapp.com">
+      <img width="49%" height=auto src="images/stocks.gif">
     </a>
     <a href="https://github.com/perkinsgianni/astro-weight-calculator">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=astro-weight-calculator&theme=graywhite">
     </a>
-    <a href="https://github.com/perkinsgianni/ProjectThree">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=ProjectThree&theme=graywhite">
+    <a href="https://github.com/perkinsgianni/react100-hackathon">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=react100-hackathon&theme=graywhite">
     </a>
   </p>
 

@@ -8,8 +8,8 @@
 <h3>「 About Me 」</h3>
 🔭 I'm a <b>Software Developer</b> and <b>Data Analyst</b> with a background in biology.<br>
 📍 I'm located in the NYC Metropolitan Area.<br>
-🌱 I’m currently studying for the ServiceNow CSA exam.<br>
-⚡ Fun fact: I danced for nine years, specifically jazz, tap, ballet and pointe.
+🌱 I’m currently completing ServiceNow training.<br>
+⚡ Fun fact: I studied dance for nine years, specifically jazz, tap, ballet and pointe.
 
 <h3>「 Frameworks, Languages, and Tools 」</h3>
 <p>

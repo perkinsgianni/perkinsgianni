@@ -6,9 +6,9 @@
 </h3>
 
 <h3>「 About Me 」</h3>
-🔭 I'm a <b>Software Developer</b> and <b>Data Analyst</b> with a background in biology.<br>
+🔭 I'm a <b>ServiceNow Consultant & Developer</b> with a background in <b>Software Development</b>.<br>
 📍 I'm located in the NYC Metropolitan Area.<br>
-🌱 I’m currently completing ServiceNow training.<br>
+<!-- 🌱 I’m currently completing ServiceNow training.<br> -->
 ⚡ Fun fact: I studied dance for nine years, specifically jazz, tap, ballet and pointe.
 
 <h3>「 Frameworks, Languages, and Tools 」</h3>

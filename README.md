@@ -42,12 +42,12 @@
     <a href="https://gp-hackathon.herokuapp.com">
       <img width="49%" height=auto src="images/stocks.gif">
     </a>
-    <a href="https://github.com/perkinsgianni/astro-weight-calculator">
+    <!-- <a href="https://github.com/perkinsgianni/astro-weight-calculator">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=astro-weight-calculator&theme=graywhite">
     </a>
     <a href="https://github.com/perkinsgianni/react100-hackathon">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=react100-hackathon&theme=graywhite">
-    </a>
+    </a> -->
   </p>
 
 <h3>「 Contact Me 」</h3>

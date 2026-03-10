@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&amp;family=IBM+Plex+Mono:wght@300&amp;display=swap');
+    </style>
+    <clipPath id="clip">
+      <rect width="800" height="200" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+
+    <rect width="800" height="200" fill="#4b3236"/>
+
+    <!-- Left accent bar -->
+    <rect x="0" y="0" width="4" height="200" fill="#8a6268" opacity="0.8"/>
+
+    <!-- LEFT: GBP wordmark -->
+    <text x="48" y="112"
+      font-family="Montserrat, sans-serif" font-weight="300"
+      font-size="88" letter-spacing="5"
+      fill="#ffffff" opacity="0.93">GBP</text>
+
+    <!-- CONSULTING — centered under GBP -->
+    <text x="151.5" y="140"
+      text-anchor="middle"
+      font-family="'IBM Plex Mono', monospace" font-weight="300"
+      font-size="13.5" letter-spacing="9.2"
+      fill="#c49a9a" opacity="0.85">CONSULTING</text>
+
+    <!-- Vertical rule divider -->
+    <line x1="320" y1="44" x2="320" y2="156"
+      stroke="#ffffff" stroke-width="0.75" opacity="0.12"/>
+
+    <!-- RIGHT: Name -->
+    <text x="352" y="103"
+      font-family="Montserrat, sans-serif" font-weight="300"
+      font-size="32" letter-spacing="0.5"
+      fill="#ffffff" opacity="0.92">Gianni Perkins</text>
+
+    <!-- Title -->
+    <text x="354" y="124"
+      font-family="'IBM Plex Mono', monospace" font-weight="300"
+      font-size="9.5" letter-spacing="2.8"
+      fill="#c49a9a" opacity="0.80">SERVICENOW CONSULTANT &amp; DEVELOPER</text>
+
+    <!-- Thin rule -->
+    <line x1="352" y1="134" x2="740" y2="134"
+      stroke="#ffffff" stroke-width="0.5" opacity="0.10"/>
+
+    <!-- Links -->
+    <text x="352" y="152"
+      font-family="'IBM Plex Mono', monospace" font-weight="300"
+      font-size="9" letter-spacing="0.3"
+      fill="#ffffff" opacity="0.42">linkedin.com/in/perkinsgianni</text>
+
+    <text x="352" y="166"
+      font-family="'IBM Plex Mono', monospace" font-weight="300"
+      font-size="9" letter-spacing="0.3"
+      fill="#ffffff" opacity="0.42">perkinsgianni@gmail.com</text>
+
+  </g>
+</svg>

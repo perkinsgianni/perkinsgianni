@@ -1,4 +1,66 @@
-<img src="images/Pink Banner.png" height="30%" width="100%" alt="Header">
+<div align="center">
+  <img src="images/github-header.png" alt="GBP Consulting" width="800"/>
+</div><br>
+
+ServiceNow Consultant and Developer with **3+ years** delivering IT Service Management (ITSM), HR Service Delivery (HRSD), and Security Operations (SecOps) implementations for government and commercial clients, from requirements gathering through deployment, with measurable improvements in operational efficiency and stakeholder satisfaction. Grounded in full-stack development — JavaScript, React, Express, and Node.js — with a focus on clean, maintainable solutions that extend beyond out-of-the-box ServiceNow.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-perkinsgianni-4b3236?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/perkinsgianni)
+[![Résumé](https://img.shields.io/badge/Résumé-Google_Drive-4b3236?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mMDMIYLzC2idNS4Mx_1X861RyofCYhiE/view?usp=share_link)
+[![Schedule](https://img.shields.io/badge/Schedule-Calendly-4b3236?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/perkinsgianni/15-min-chat)
+
+**Certifications**
+
+![CSA](https://img.shields.io/badge/CSA-5a3c41?style=flat-square&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-5a3c41?style=flat-square&logoColor=white)
+![CIS-ITSM](https://img.shields.io/badge/CIS--ITSM-5a3c41?style=flat-square&logoColor=white)
+![CIS-HR](https://img.shields.io/badge/CIS--HR-5a3c41?style=flat-square&logoColor=white)
+![CIS-SIR](https://img.shields.io/badge/CIS--SIR-5a3c41?style=flat-square&logoColor=white)
+
+**Skills**
+
+![ITSM](https://img.shields.io/badge/ITSM-4b3236?style=flat-square&logoColor=white)
+![Incident Management](https://img.shields.io/badge/Incident%20Management-4b3236?style=flat-square&logoColor=white)
+![Change Management](https://img.shields.io/badge/Change%20Management-4b3236?style=flat-square&logoColor=white)
+![Problem Management](https://img.shields.io/badge/Problem%20Management-4b3236?style=flat-square&logoColor=white)
+![Request Management](https://img.shields.io/badge/Request%20Management-4b3236?style=flat-square&logoColor=white)
+
+![HRSD](https://img.shields.io/badge/HRSD-4b3236?style=flat-square&logoColor=white)
+![Employee Center](https://img.shields.io/badge/Employee%20Center-4b3236?style=flat-square&logoColor=white)
+![Lifecycle Events](https://img.shields.io/badge/Lifecycle%20Events-4b3236?style=flat-square&logoColor=white)
+![Inbound Actions](https://img.shields.io/badge/Inbound%20Actions-4b3236?style=flat-square&logoColor=white)
+![Assignment Rules](https://img.shields.io/badge/Assignment%20Rules-4b3236?style=flat-square&logoColor=white)
+![COE Security Policies](https://img.shields.io/badge/COE%20Security%20Policies-4b3236?style=flat-square&logoColor=white)
+
+![Flow Designer](https://img.shields.io/badge/Flow%20Designer-4b3236?style=flat-square&logoColor=white)
+![IntegrationHub](https://img.shields.io/badge/IntegrationHub-4b3236?style=flat-square&logoColor=white)
+![Service Portal](https://img.shields.io/badge/Service%20Portal-4b3236?style=flat-square&logoColor=white)
+![App Engine Studio](https://img.shields.io/badge/App%20Engine%20Studio-4b3236?style=flat-square&logoColor=white)
+![Workspace Configuration](https://img.shields.io/badge/Workspace%20Configuration-4b3236?style=flat-square&logoColor=white)
+![ATF](https://img.shields.io/badge/Automated%20Test%20Framework-4b3236?style=flat-square&logoColor=white)
+![Performance Analytics](https://img.shields.io/badge/Performance%20Analytics-4b3236?style=flat-square&logoColor=white)
+![Reporting & Dashboards](https://img.shields.io/badge/Reporting%20%26%20Dashboards-4b3236?style=flat-square&logoColor=white)
+
+![GlideRecord](https://img.shields.io/badge/GlideRecord-4b3236?style=flat-square&logoColor=white)
+![GlideAjax](https://img.shields.io/badge/GlideAjax-4b3236?style=flat-square&logoColor=white)
+![Business Rules](https://img.shields.io/badge/Business%20Rules-4b3236?style=flat-square&logoColor=white)
+![Script Includes](https://img.shields.io/badge/Script%20Includes-4b3236?style=flat-square&logoColor=white)
+![Client Scripts](https://img.shields.io/badge/Client%20Scripts-4b3236?style=flat-square&logoColor=white)
+![ACLs](https://img.shields.io/badge/ACLs-4b3236?style=flat-square&logoColor=white)
+![SLAs](https://img.shields.io/badge/SLAs-4b3236?style=flat-square&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-4b3236?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4b3236?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4b3236?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4b3236?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-4b3236?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4b3236?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-4b3236?style=flat-square&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-4b3236?style=flat-square&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-4b3236?style=flat-square&logoColor=white)
+![Jelly](https://img.shields.io/badge/Jelly-4b3236?style=flat-square&logoColor=white)
+
+
+<!-- <img src="images/Pink Banner.png" height="30%" width="100%" alt="Header">
 
 <h3 align="center">
   Hi, I'm Gianni 👋🏾 <br>
@@ -8,7 +70,7 @@
 <h3>「 About Me 」</h3>
 🔭 I'm a <b>ServiceNow Consultant & Developer</b> with a background in <b>Software Development</b>.<br>
 📍 I'm located in the NYC Metropolitan Area.<br>
-<!-- 🌱 I’m currently completing ServiceNow training.<br> -->
+🌱 I’m currently completing ServiceNow training.<br>
 ⚡ Fun fact: I studied dance for nine years, specifically jazz, tap, ballet and pointe.
 
 <h3>「 Frameworks, Languages, and Tools 」</h3>
@@ -20,7 +82,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> -->
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
 <p>
@@ -42,12 +104,12 @@
     <a href="https://gp-hackathon.herokuapp.com">
       <img width="49%" height=auto src="images/stocks.gif">
     </a>
-    <!-- <a href="https://github.com/perkinsgianni/astro-weight-calculator">
+    <a href="https://github.com/perkinsgianni/astro-weight-calculator">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=astro-weight-calculator&theme=graywhite">
     </a>
     <a href="https://github.com/perkinsgianni/react100-hackathon">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=perkinsgianni&repo=react100-hackathon&theme=graywhite">
-    </a> -->
+    </a>
   </p>
 
 <h3>「 Contact Me 」</h3>
@@ -55,4 +117,4 @@
     <a href="mailto:perkinsgianni@gmail.com"><img src="images/email.png" height="40px" width="40px" alt="Email"></a>
     <a href="https://www.linkedin.com/in/perkinsgianni"><img src="images/linkedin.png" height="40px" width="40px" alt="LinkedIn"></a>
     <a href="https://perkinsgianni.github.io"><img src="images/github.png" height="40px" width="40px" alt="GitHub"></a>
-  </p>
+  </p> -->
